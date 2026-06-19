@@ -8,3 +8,8 @@ responsive user experience.
 and animated enemy objects.
 • Applied object-oriented programming, mathematical computations, and event-driven architecture to manage
 game logic and rendering performance.
+
+
+This is how the game looks: 
+
+<img width="999" height="830" alt="SpaceShooter Game" src="https://github.com/user-attachments/assets/bb95d766-4c1b-44f7-b094-a665030992ff" />
